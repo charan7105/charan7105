@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Sai Charan Venna</h1>
-<h3 align="center">I'm a Developer・Designer・Mentor</h3>
+![MasterHead](https://cdn.discordapp.com/attachments/782838733133053994/1119208027166347304/Banner.png)
+
+<img align="right" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/782838733133053994/1119209342793682984/da0b73ac5e2f8759e399e8edafa8be1f.gif">
+
+<h1 align="left">Hi 👋, I'm Sai Charan Venna</h1>
+<h3 align="left">I'm a Developer・Designer・Mentor</h3>
 
 - 🔭 I’m currently working on **Web Projects**
 - 🌱 I’m currently learning **React**
