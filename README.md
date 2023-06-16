@@ -36,10 +36,6 @@ https://charanhere.medium.com/how-do-we-make-a-website-d846ae10fb4e
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ### GitHub Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=charan7105&show_icons=true&locale=en&layout=compact" alt="charan7105" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=charan7105&show_icons=true&locale=en" alt="charan7105" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=charan7105&" alt="charan7105" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=charan7105" alt="charan7105" /></a> </p>
