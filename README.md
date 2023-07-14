@@ -1,3 +1,4 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=charan7105&label=Profile%20views&color=0e75b6&style=flat" alt="charan7105" /> </p>
 ![MasterHead](https://cdn.discordapp.com/attachments/782838733133053994/1119208027166347304/Banner.png)
 
 <img align="right" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/782838733133053994/1119209342793682984/da0b73ac5e2f8759e399e8edafa8be1f.gif">
@@ -39,4 +40,3 @@ https://charanhere.medium.com/how-do-we-make-a-website-d846ae10fb4e
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=charan7105&" alt="charan7105" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=charan7105" alt="charan7105" /></a> </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=charan7105&label=Profile%20views&color=0e75b6&style=flat" alt="charan7105" /> </p>
