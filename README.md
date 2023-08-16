@@ -13,10 +13,10 @@
 - 📫 How to reach me **saicharanvenna123@gmail.com**
 - ⚡ Fun fact **I'm Zuffff !!**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-https://charanhere.medium.com/how-do-we-make-a-website-d846ae10fb4e
-<!-- BLOG-POST-LIST:END -->
+### Recent Blogs posts
+- https://medium.com/@charanhere/what-is-javascript-beginner-edition-10e70a3eb682
+- https://medium.com/@charanhere/git-and-github-demystified-a-step-by-step-tutorial-for-beginners-f9eaf3277209
+- https://medium.com/@charanhere/how-do-we-make-a-website-d846ae10fb4e
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
