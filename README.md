@@ -1,7 +1,7 @@
 ![MasterHead](https://res.cloudinary.com/dvtrxfnen/image/upload/v1710413518/ei9mny0tiyux4h3yuj1y.png)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charan7105&label=Profile%20views&color=0e75b6&style=flat" alt="charan7105" /> </p>
 
-<img align="right" alt="Coding" width="370" src="https://cdn.discordapp.com/attachments/782838733133053994/1119209342793682984/da0b73ac5e2f8759e399e8edafa8be1f.gif">
+<img align="right" alt="Coding" width="370" src="https://res.cloudinary.com/dvtrxfnen/image/upload/v1710413839/ahicjqolh5xp8rdyp53l.gif">
 
 <h1 align="left">Hi 👋, I'm Sai Charan Venna</h1>
 <h3 align="left">I'm a Developer・Designer・Mentor</h3>
